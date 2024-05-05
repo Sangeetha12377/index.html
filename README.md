@@ -1,61 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Events</title>
-    <!-- Flaticon Website -->
-    <link rel="icon" href="./img/date.png">
-    <style>
-        h1{
-            background-color: blue;
-        }
-        
-        
-    </style>
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMC</title>
 </head>
-<body  style="color: white;background-color: black;">
+<body>
+    <center>
+    <h1>Error Makes Clever Academy🚀</h1>
+    <h5>Training|Tech News|Freshers Guide</h5>
+
+    <h6>Empowering young developers to level up their skils through training in software development technologies🌅</h6>
+    </center>
+    <hr>
+    <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5QzzeYHApV0?si=Y7ayY5CE02WKmmn9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur eligendi maiores molestiae dolorum facilis nobis atque architecto placeat nesciunt, debitis autem repellat aliquam voluptas unde nam eveniet ducimus aut recusandae rerum sequi cumque odio iure officiis culpa! Asperiores tenetur fuga harum minus laborum dignissimos maiores temporibus, modi sequi molestiae iure maxime, voluptatem vitae eaque laudantium sunt velit suscipit quia quas doloremque, commodi aliquam quam? Nisi soluta perferendis adipisci amet ipsum. Maxime natus ab deserunt delectus vitae consectetur asperiores neque distinctio? Exercitationem necessitatibus impedit nesciunt, numquam voluptatem amet fugiat itaque quis distinctio fuga obcaecati aspernatur dignissimos minima, pariatur vitae quidem enim?</p>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel repudiandae sapiente odit! Eligendi nam voluptas tenetur molestias doloribus officia optio debitis ullam iure, qui quaerat eum recusandae ducimus inventore consequuntur dolores eveniet eos doloremque tempora sed maiores ipsam perspiciatis veniam eaque. Recusandae, repellendus? Animi repellendus voluptatem dicta fugit nesciunt tempora?</p>
+    <h3>Lets Divide Full stack into 3 parts</h3>
+    <ul>
+        <li>Frontend</li>
+        <li>Backend</li>
+        <li>Database</li>
+    </ul>
     
-    <center>
-        <div>
-        <h1>Upcoming Events📅</h1>
-        <p>Don't Miss any of your important events. Here are the important events you 
-            have registered for !
-        </p>
-        <hr>
-    </div>
-    </center>
-
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum scelerisque eros a lacinia. Cras nisl eros, tempor eu nisl nec, interdum ornare quam. Duis convallis, arcu in interdum consectetur, ipsum risus convallis tellus, et tincidunt sem ex quis libero. Fusce volutpat pellentesque nisi, in semper nunc elementum in. Suspendisse in varius tortor. Quisque in interdum massa, quis lacinia mauris. Cras scelerisque augue ac nibh malesuada, vel facilisis velit pharetra. Nullam aliquet diam eget ipsum malesuada auctor at non lorem. Donec nulla erat, efficitur id egestas non, ultricies sodales dui. Phasellus facilisis ex vitae velit volutpat, a rhoncus arcu tincidunt. Fusce maximus pharetra nisi eu euismod. Donec id velit mattis, sodales metus lacinia, finibus diam.</p>
-   
-    <center>
-    <div>
-        <!--Size 600x200px-->
-        
-    <a href="./img/event1.png"><img src="./img/event1.png"></a>
-    <h2>Photo Gallery Event</h2>
-    <h3>Free Entry | Free Food | Pets are Not Allowed</h3>
-    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
-</div>    
-
-<div>
-    <img src="./img/event2.png">
-    <h2><a href="http://myntra.com">Fashion Store </a></h2>
-    <h3>Free Entry | Free Food | Pets are Not Allowed</h3>
-    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
-</div>    
+    
+    <h2>Technologies Used for Full stack Development</h2>
+    <table border="2">
+        <tr>
+            <td><b>Frontend</b></td> <td><b>Backend</b></td> <td><b>Database</b></td>
+        </tr>
+        <tr>
+            <td>HTML</td> <td>Java</td> <td>Mongo DB</td>
+        </tr>
+        <tr>
+            <td>CSS</td> <td>Python</td> <td>MySQL</td>
+        </tr>
+        <tr>
+            <td>Javascript</td> <td>Node JS</td> <td>AWS</td>
+        </tr>
+    </table>
+    <hr>
+<center>
+    <p><a href="register.html">Register for a course</a> <a href="https://www.bing.com/search?q=error+makes+clever+youtube+channel&qs=LS&pq=error+makes+clever+&sk=HS2LS1&sc=10-19&cvid=67DD4A80594D4730B533560E9CD35FA3&FORM=QBRE&sp=4&ghc=1&lq=0">Youtube</a></p>
 </center>
-<hr>
-<footer>
-    <center>
-        <h2>Contact</h2>
-        <h3>+91 9344751277|sangeethavadivel312003@gmail.com</h3>
-        <p>9th street Avenue Park, Trichy, 625620</p>
-        <p><svelte:body />
-         by<br>
-         Sangeetha
-        </p>
-    </center>
-
-</footer>
 </body>
 </html>
